@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jasaaspalsumatra.pages.dev/sitemap.xml
